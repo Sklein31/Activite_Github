@@ -1,1 +1,3 @@
 voici du texte dans mon premier document, ajouté via github
+
+de retour en local je prends connaissance des modifications faites sous github et j'ajoute mon grain de sel.
